@@ -1,0 +1,2 @@
+La banque en ligne PrimoBank fait face à une vague de départs de clients. Notre mission, en collaboration avec Mehdi, consultant senior, est d'analyser les données pour identifier les profils à risque et comprendre les raisons de ces départs. Ce projet met en lumière les caractéristiques principales des clients et les tendances de départ, afin de proposer des premières pistes d’action pour améliorer la rétention et réduire le taux de churn.
+<img width="5426" height="56" alt="image" src="https://github.com/user-attachments/assets/8aa99d0a-9eab-45e0-9df8-66a522f71dd6" />
